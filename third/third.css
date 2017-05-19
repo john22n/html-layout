@@ -1,0 +1,64 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+.head {
+  width: 100%;
+  height: 20vh;
+  background-color: gray;
+  position: relative;
+}
+
+.button {
+  width: 60px;
+  height: 60px;
+  background-color: blue;
+  margin-left: 20px;
+  margin-top: 20px;
+  position: relative;
+  display: inline-block;
+}
+
+.block2 {
+  width: 100%;
+  height: 50vh;
+  background-color: #fff;
+}
+.block2 .text {
+  width: 80%;
+  margin: 0 auto;
+  overflow: scroll;
+  padding-top: 20px;
+}
+
+.block2 h6 {
+  text-align: center;
+  text-align: justify;
+  font-size: 2em;
+
+}
+
+.block3 {
+  width: 100%;
+  height: 50vh;
+  background-color: lightblue;
+}
+
+.block4 {
+  width: 100%;
+  height: 50vh;
+  background-color: coral;
+}
+
+.block5 {
+  width: 100%;
+  height: 50vh;
+  background-color: limegreen;
+}
+
+.block6 {
+  width: 100%;
+  height: 50vh;
+  background-color: yellow;
+}
